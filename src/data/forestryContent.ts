@@ -1,6 +1,6 @@
 export const opinionColumnData = {
   title: "El Bosque que Impulsa a Chile: Una Mirada Positiva a Nuestra Industria Forestal",
-  author: "Ignacio Soto",
+  author: "Alejandra Paine",
   course: "3C",
   date: "Junio 2025",
   paragraphs: [
