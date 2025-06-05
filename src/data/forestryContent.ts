@@ -1,38 +1,28 @@
 export const opinionColumnData = {
-  title: "El verdadero costo del Decreto Ley 701: Subsidios a costa del futuro de Chile",
-  author: "Alejandra Paine",
+  title: "El Bosque que Impulsa a Chile: Una Mirada Positiva a Nuestra Industria Forestal",
+  author: "Ignacio Soto",
   course: "3C",
   date: "Junio 2025",
   paragraphs: [
-    "¿Sabías que el 2,8% del PIB chileno proviene de la industria forestal, pero que este aporte ha costado la pérdida de más del 50% de los bosques nativos desde 1970? Este dato, lejos de ser un logro, representa una de las mayores deudas ambientales y sociales de nuestro país.",
-    
-    "Tras más de cuatro décadas de vigencia, el Decreto Ley 701 (promulgado durante la dictadura en 1974) y sus posteriores renovaciones han consolidado un modelo forestal que subsidia principalmente a grandes corporaciones mientras deja una estela de consecuencias negativas que ahora debemos enfrentar como país.",
-    
-    "Primero, la concentración económica es alarmante. Dos empresas, CMPC y Arauco, controlan más del 70% de las plantaciones forestales del país y han recibido aproximadamente el 65% de los subsidios estatales. Esta concentración económica, iniciada con privatizaciones durante la dictadura, ha generado un oligopolio que distorsiona el mercado y limita el desarrollo local.",
-    
-    "Segundo, el impacto ambiental es devastador. Las extensas plantaciones de pino y eucalipto han reemplazado bosque nativo, causando disminución en la biodiversidad, erosión de suelos y agravamiento de la crisis hídrica. Estudios de la Universidad Austral indican que las plantaciones de eucalipto consumen hasta tres veces más agua que el bosque nativo, exacerbando la sequía en regiones como el Biobío y La Araucanía.",
-    
-    "Tercero, el conflicto territorial con comunidades mapuche se ha intensificado. Las empresas forestales ocupan aproximadamente 1,5 millones de hectáreas que coinciden con territorios ancestrales indígenas, generando disputas por el agua, contaminación y pérdida de flora medicinal tradicional.",
-    
-    "Para avanzar hacia un modelo forestal sustentable, el Estado debe implementar urgentemente dos medidas fundamentales: crear un nuevo marco regulatorio que priorice la restauración de bosques nativos sobre las plantaciones comerciales, y establecer un sistema de certificación obligatorio que garantice prácticas socioambientales responsables por parte de las empresas forestales.",
-    
-    "El futuro de Chile requiere repensar este modelo extractivista, transitando hacia una industria forestal que equilibre los beneficios económicos con la sustentabilidad ambiental y el respeto a las comunidades locales. No podemos seguir subsidiando un modelo que empobrece nuestro patrimonio natural y social en beneficio de unos pocos."
+    "¿Sabías que más de 300.000 familias chilenas dependen directa o indirectamente de la industria forestal? Este dato, muchas veces ignorado en el debate público, revela el profundo impacto social y económico de un sector que ha sido clave para el desarrollo del país durante los últimos 50 años.",
+    "Me declaro abiertamente a favor de la industria forestal en Chile. Lejos de ser solo un motor económico, este sector ha sido un pilar para la descentralización, la innovación y la sostenibilidad en regiones históricamente postergadas.",
+    "En primer lugar, el impacto económico es innegable: la industria forestal representa cerca del 2% del PIB nacional y genera más de 120.000 empleos formales, especialmente en regiones como el Biobío y La Araucanía. Gracias a la aplicación del Decreto Ley 701 desde 1974, Chile pasó de ser un país importador de madera a convertirse en uno de los principales exportadores mundiales de celulosa, papel y productos derivados, con exportaciones que superan los 6.000 millones de dólares anuales.",
+    "En segundo lugar, el desarrollo social ha sido significativo. El crecimiento de la industria forestal ha impulsado la infraestructura, la educación técnica y la calidad de vida en zonas rurales. Empresas y Estado han colaborado en la capacitación de trabajadores, la creación de escuelas técnicas forestales y la mejora de caminos, conectando comunidades y generando oportunidades.",
+    "En tercer lugar, la industria forestal chilena ha avanzado notablemente en sostenibilidad y tecnología. Más del 80% de las plantaciones actuales cuentan con certificaciones ambientales internacionales como FSC y PEFC, y se han invertido millones de dólares en investigación para mejorar la eficiencia en el uso del agua y fomentar la reforestación con especies nativas. El Estado, a través de políticas públicas y subsidios, ha jugado un rol fundamental en promover la innovación y la reforestación responsable.",
+    "Mirando al futuro, la industria forestal tiene el potencial de liderar la transición hacia una bioeconomía circular, aportando soluciones frente al cambio climático y generando empleos verdes. Para potenciar este camino, propongo dos medidas concretas: primero, reforzar la certificación ambiental obligatoria para todas las empresas del sector; segundo, fomentar la reforestación mixta, combinando especies comerciales con nativas para maximizar los beneficios económicos y ecológicos.",
+    "La industria forestal es, y debe seguir siendo, una parte esencial del desarrollo sostenible de Chile. Apostar por su fortalecimiento es apostar por el bienestar de millones y por un futuro más verde y próspero para nuestro país."
   ]
 };
 
 export const videoScriptData = {
-  title: "La Paradoja Forestal Chilena: Crecimiento a Qué Precio",
-  technicalNotes: "Utilizar imágenes de contraste entre plantaciones forestales y bosque nativo. Incluir gráficos animados para datos estadísticos y testimonios breves de habitantes de zonas forestales.",
+  title: "Industria Forestal en Chile: Más Allá del Bosque",
+  technicalNotes: "Mostrar imágenes de bosques, trabajadores y exportaciones. Usar gráficos simples y transiciones dinámicas. Texto en pantalla para datos clave.",
   script: [
-    "Desde el aire, Chile parece un país cubierto de verde. Pero este verde esconde una realidad compleja: mientras las exportaciones forestales alcanzan los 6.000 millones de dólares anuales, el 93% de estas provienen de especies exóticas como pino y eucalipto. Esta es la paradoja forestal chilena, un modelo económico impulsado por el Decreto Ley 701 de 1974 que ha transformado radicalmente nuestro paisaje y comunidades.",
-    
-    "Los números son claros: este decreto subsidió el 75% de los costos de plantación y manejo forestal, destinando más de 800 millones de dólares en subsidios durante su vigencia. El resultado fue un crecimiento exponencial del sector, pero con una distribución de beneficios profundamente desigual. Mientras dos empresas —CMPC y Arauco— capturaron la mayor parte de estos incentivos, las comunidades locales vieron reducirse sus recursos hídricos hasta en un 40% en zonas de plantaciones intensivas, según estudios de la Universidad de Concepción.",
-    
-    "El impacto va más allá de lo económico. En regiones como La Araucanía, el monocultivo forestal ha provocado la pérdida de aproximadamente 200.000 hectáreas de bosque nativo, disminuyendo la biodiversidad local y afectando directamente a comunidades mapuche que dependen de estos ecosistemas. La tasa de pobreza en comunas forestales supera en un 15% el promedio nacional, desafiando el mito del 'desarrollo forestal'.",
-    
-    "¿Qué futuro queremos para nuestros bosques y comunidades? Es urgente una nueva política forestal con dos pilares fundamentales: primero, incentivos para la restauración ecológica y gestión sostenible del bosque nativo, con participación de comunidades locales; segundo, un sistema tributario que asegure que las ganancias de la industria generen beneficios territoriales concretos, especialmente en acceso al agua y biodiversidad.",
-    
-    "Chile tiene la oportunidad de transformar su modelo forestal en un ejemplo de sustentabilidad. Cada vez que compramos papel o madera, estamos votando por el tipo de industria que queremos. Es tiempo de exigir un cambio profundo en la gestión de nuestros bosques, porque no hay economía sana en un planeta enfermo."
+    "¿Sabías que Chile es uno de los mayores exportadores de productos forestales del mundo? Pero, ¿qué hay detrás de este éxito verde? ¡Te lo cuento en menos de 2 minutos!",
+    "Primero, la industria forestal no solo mueve la economía: genera más de 120.000 empleos y ha transformado regiones completas, llevando progreso y oportunidades a zonas rurales. Gracias al Decreto Ley 701, desde 1974, pasamos de importar madera a exportar millones en celulosa y papel cada año.",
+    "Segundo, el Estado y las empresas han invertido fuerte en tecnología y sostenibilidad. Hoy, más del 80% de nuestras plantaciones están certificadas ambientalmente, y cada vez se plantan más especies nativas junto a las comerciales. ¡Eso es desarrollo sostenible real!",
+    "Tercero, la industria forestal chilena es clave para combatir el cambio climático. Por cada árbol cosechado, se plantan varios más, ayudando a capturar CO₂ y a mantener el aire limpio.",
+    "¿El futuro? Más innovación y más verde. Si reforzamos la certificación ambiental y mezclamos especies nativas con comerciales, ganamos todos: economía, comunidades y naturaleza. La industria forestal es parte de la solución para un Chile más sustentable. ¿Te animas a mirar el bosque con otros ojos? ¡Comparte este video y súmate al desarrollo sostenible!"
   ]
 };
 
